@@ -1,2 +1,2 @@
-# tesla-light-show
+# tesla-xlights-show
 Tesla Light Show (xLights)
