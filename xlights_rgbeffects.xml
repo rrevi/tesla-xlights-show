@@ -142,7 +142,7 @@
   </models>
   <view_objects>
     <view_object DisplayAs="Gridlines" LayoutGroup="Default" name="Gridlines" GridLineSpacing="50" GridWidth="2000.0" GridHeight="1000.0" Active="0" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="-90.00000000" RotateY="-0.00000000" RotateZ="0.00000000" versionNumber="5"/>
-    <view_object DisplayAs="Mesh" LayoutGroup="Default" name="Tesla Model S" Active="1" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" ObjFile="/home/vincent/Music/tesla_xlights_show_folder/Model_S/ModelS.obj"/>
+    <view_object DisplayAs="Mesh" LayoutGroup="Default" name="Tesla Model S" Active="1" ObjFile="/Users/rrevi/Github/tesla-xlights-show/Model_S/ModelS.obj" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5"/>
   </view_objects>
   <effects version="0007">
     <effectGroup name="legacy">
@@ -204,11 +204,11 @@
   </perspectives>
   <settings>
     <scaleImage value="0"/>
-    <defaultSeqView value=""/>
     <previewWidth value="1280"/>
     <previewHeight value="720"/>
-    <fseqDir value="/home/vincent/Music/tesla_xlights_show_folder"/>
-    <renderCacheDir value="/home/vincent/Music/tesla_xlights_show_folder"/>
+    <fseqDir value="/Users/rrevi/Github/tesla-xlights-show"/>
+    <renderCacheDir value="/Users/rrevi/Github/tesla-xlights-show"/>
+    <defaultSeqView value=""/>
   </settings>
   <colors>
     <DisabledEffect Red="200" Green="200" Blue="0"/>
